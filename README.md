@@ -41,7 +41,7 @@
 
 
 
-<img align="right" alt="omg" width="350" height="300" src="https://media1.tenor.com/m/CHVEROnz6hMAAAAC/asta-black-clover.gif">
+<img align="right" alt="omg" width="320" height="300" src="https://media1.tenor.com/m/CHVEROnz6hMAAAAC/asta-black-clover.gif">
 
 
 
