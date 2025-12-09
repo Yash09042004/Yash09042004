@@ -12,9 +12,10 @@
 </a>
 <p align="center">
  
-<a href="https://github.com/Yash09042004"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hello+There!!..&hearts;++Student+%7C+Information+Technology+;Competitive+Programmer+%7C+Active+And+Quick+Learner+%7C+Love+to+learn+new+stuffs..; " alt="Typing SVG" />
+<a href="https://github.com/Yash09042004">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&multiline=true&width=550&height=80&lines=Hello+There!!..;Student+%7C+Information+Technology;Competitive+Programmer+%7C+Active+And+Quick+Learner;Love+to+learn+new+stuffs.." alt="Typing SVG">
 </a>
+
 
 <br/>
 
