@@ -89,6 +89,7 @@ Currently Coding and Listening
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lr35jdezxe3wmm2chqjlpguxx4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **Yash09042004/Yash09042004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
