@@ -35,7 +35,7 @@
 
 <!-- Trophies -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yash09042004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.koyeb.app/?username=Yash09042004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
