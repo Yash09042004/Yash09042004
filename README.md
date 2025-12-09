@@ -32,6 +32,7 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 <a href="https://github.com/Yash09042004"></a><a href="https://github.com/Yash09042004"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=Yash09042004&style=for-the-badge&color=50adff"></a><a href="https://github.com/Yash09042004"><img align="right" width ="%" src="https://img.shields.io/github/followers/Yash09042004?logo=github&style=for-the-badge"></a>
+
 <!-- Trophies -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yash09042004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -57,14 +58,16 @@
 <!--STATS-->
 
 
-<h3 align="center">
- <a href="https://github.com/Yash09042004">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/Yash09042004">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿Ｓｔａｔｓ】 
-
+<h3 align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
+  <a href="https://github.com/Yash09042004">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" />
+  </a>
+  【﻿Ｓｔａｔｓ】
+  <a href="https://github.com/Yash09042004">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" />
+  </a>
 </h3>
+
 
 <a href="https://github.com/Yash09042004">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
@@ -77,11 +80,16 @@
  <br>
 
 
-<a href="https://github.com/Yash09042004">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash09042004&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
 
-</a>
+<br>
+<h4 align="center">
+  
+[![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash09042004&theme=dracula)](https://github.com/Yash09042004)
+</h4>
+ <div align="center">
+
+
 <br>
 <h4 align="center">
 Currently Coding and Listening
@@ -89,7 +97,7 @@ Currently Coding and Listening
  <div align="center">
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lr35jdezxe3wmm2chqjlpguxx4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lr35jdezxe3wmm2chqjlpguxx4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **Yash09042004/Yash09042004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
