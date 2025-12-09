@@ -35,7 +35,17 @@
 
 <!-- Trophies -->
 
-[![trophy](https://github-profile-trophy.koyeb.app/?username=Yash09042004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+### 🛠️ Tech Skills
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+</div>
 
 <hr>
 
@@ -47,7 +57,7 @@
 
 
 
-<img align="right" alt="omg" width="320" height="300" src="https://media1.tenor.com/m/CHVEROnz6hMAAAAC/asta-black-clover.gif">
+<img align="right" alt="omg" width="440" height="600" src="https://media1.tenor.com/m/CHVEROnz6hMAAAAC/asta-black-clover.gif">
 
 
 
